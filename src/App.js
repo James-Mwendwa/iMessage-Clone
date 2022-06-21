@@ -1,11 +1,15 @@
 import React from 'react';
 import './App.css';
+import IMessage from './IMessage';
+
 
 function App() {
   return (
     <div className="app">
-      <h2>iMessage Clone</h2>
+      <IMessage />
+    
     </div>
+    
   );
 }
 
