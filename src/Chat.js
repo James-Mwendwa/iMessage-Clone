@@ -3,7 +3,11 @@ import './Chat.css';
 
 function Chat() {
   return (
-    <div className='chat'>Chat</div>
+    <div className='chat'>
+      <div className="chat-header">
+        <h3>To: Channel name</h3>
+      </div>
+    </div>
   )
 }
 
