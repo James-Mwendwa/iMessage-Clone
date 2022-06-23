@@ -26,6 +26,8 @@ function Chat() {
         <h2>chat message</h2>
         <h2>chat message</h2>
         <h2>chat message</h2>
+        
+
       </div>
 
       <div className="chat-input">
